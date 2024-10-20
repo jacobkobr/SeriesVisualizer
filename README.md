@@ -1,5 +1,8 @@
 # SeriesVisualizer
 
+![Application Screenshot](assets/img.png)
+
+
 ## How to Use
 1. **Input a Function:** Enter a mathematical expression (e.g., `x^2`, `sin(x)`) in the function input field.
 2. **Set Bounds:** Specify the lower and upper bounds for the x-axis.
